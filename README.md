@@ -10,7 +10,7 @@ L'objectif de notre projet est de détecter le mouvement des yeux, et conseiller
 
 Ce système de sécurité vise à réduire le nombre d'accidents et prendre conscience des risques. 
 
-Le schéma suivant récapitule les trois axes Problème, Public, Valeur :
+Les trois axes Problème/Public/Valeur sont les suivants :  
 
 **Problème :    Sécurité routière et accident                         
 
