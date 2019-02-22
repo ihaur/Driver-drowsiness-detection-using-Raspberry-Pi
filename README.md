@@ -12,17 +12,13 @@ Ce système de sécurité vise à réduire le nombre d'accidents et prendre cons
 
 Le schéma suivant récapitule les trois axes Problème, Public, Valeur :
 
-Problème :              *             Public
-                        *
-Sécurité routière       *
-                        *
-                        *
-                        *
-                        *
-                        *
-                        *
-                        *
-                        *
+**Problème :    Sécurité routière et accident                         
+
+**Public   :    Les usagers de la route comprennent les automobilistes, les conducteurs des transports publics routiers (autobus et autocars)
+
+**Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques. 
+
+                     
                         
 
 
