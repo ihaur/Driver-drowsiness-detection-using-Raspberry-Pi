@@ -20,6 +20,7 @@ Les trois axes Problème/Public/Valeur sont les suivants :
 
 Nous définissons les entrées / sorties de notre système comme suit : 
             * Entrée : Mouvement des yeux
+            * Sortie : Voix personnalisées en utilisant l'assistante Google
                         
 
 
