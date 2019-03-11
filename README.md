@@ -18,9 +18,10 @@ Les trois axes Problème/Public/Valeur sont les suivants :
 
 **Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques. 
 
-Nous définissons les entrées / sorties de notre système comme suit : 
-            * Entrée : Mouvement des yeux
-            * Sortie : Voix personnalisées en utilisant l'assistante Google
+Nous définissons les entrées / sorties de notre système comme suit :
+
+** Entrée : Mouvement des yeux
+** Sortie : Voix personnalisées en utilisant l'assistante Google
                         
 La première étape consiste à se connceter en SSH et VNC sur le Raspberry-Pi. Pour cela, nous avons récupéré l'adresse IP de la carte en se connectant à un point d'accès Wi-Fi configuré sur la carte SDK. Le lien suivant décrit les étapes suivis pour accéder à la Raspberry-Pi par SSH et VNC : https://www.windtopik.fr/ssh-vnc-raspberrypi/ .
 
