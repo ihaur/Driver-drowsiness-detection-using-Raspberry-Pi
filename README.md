@@ -18,7 +18,8 @@ Les trois axes Problème/Public/Valeur sont les suivants :
 
 **Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques. 
 
-                     
+Nous définissons les entrées / sorties de notre système comme suit : 
+            * Entrée : Mouvement des yeux
                         
 
 
