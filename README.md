@@ -40,7 +40,7 @@ Les signes précurseurs de fatigue peuvent être repérées à temps par le cond
 
 **Pensées décousues  
 
-**Augmentation des gestes « autocentrés3 »
+**Augmentation des gestes
 
 Dans le but de garantir la sécurité routière pour les usagers de la route comprennent les automobilistes, les conducteurs des transports publics routiers (principalement les autobus et autocars), nous avons développé ce système de détection de fatigue en se basant sur la lourdeur des paupières et picotement des yeux. 
 
@@ -66,7 +66,7 @@ Nous définissons les entrées / sorties de notre système comme suit :
 
 **Sortie : Voix personnalisées en utilisant l'assistante Google
                         
-La première étape consiste à se connceter en SSH et VNC sur le Raspberry-Pi. Pour cela, nous avons récupéré l'adresse IP de la carte en se connectant à un point d'accès Wi-Fi configuré sur la carte SDK. Le lien suivant décrit les étapes suivis pour accéder à la Raspberry-Pi par SSH et VNC : https://www.windtopik.fr/ssh-vnc-raspberrypi/ .
+La première étape consiste à se connceter en SSH et VNC sur le Raspberry-Pi. Pour cela, nous avons récupéré l'adresse IP de la carte en se connectant à un point d'accès Wi-Fi configuré sur la carte SDK. Le lien suivant décrit les étapes suivis pour accéder à la Raspberry-Pi par SSH et VNC : https://www.windtopik.fr/ssh-vnc-raspberrypi/.
 
 Une fois connecté sur VNC, nous avons suivi les étapes du lien ci-dessous pour installer l'assistante Google sur la Raspberry Pi : https://developers.google.com/assistant/sdk/guides/library/python/embed/setup. 
 
