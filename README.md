@@ -56,6 +56,21 @@ Les trois axes Problème/Public/Valeur sont les suivants :
 
 **Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques. 
 
+Etat de l'art et système existant : 
+
+Les véhicules récents analysent la trajectoire et l’amplitude des gestes au volant pour en déduire le niveau de concentration. C’est le principe du Driver Activity Assistant que l’on trouve au sein de la gamme du groupe Volkswagen. Sur la Skoda Fabia, par exemple, le système détecte les déviations par rapport à un comportement de conduite normal, en particulier en virage.
+
+Chez Mercedes, jusqu’à 70 paramètres sont pris en compte par le système de bord. Ils sont passés au crible par un cerveau électronique qui en déduit l’état de concentration de celui qui est derrière le volant. Si un comportement anormal est détecté, l’écran de bord recommande de s’arrêter et d’aller prendre un café. Un message doublé d’une alerte sonore.
+
+Drive fatigue monitor MR688 : Avertisseur somnolence + inattention : Utilise le PERCLOS pour déterminer l’état de fatigue du conducteur.
+Alerte également le conducteur en cas d’inattention (= lorsqu’il ne regarde pas la route). Signal sonore avec deux niveau d’alerte
++ Message vocal.
+
+Roadefend Driver Anti-fatigue system : L’appareil se base sur des données biométriques pour déterminer l’état de fatigue du conducteur.
+L’appareil dispose également d’une fonction black box avertissant l’opérateur de la flotte de diverses données tel que la position du véhicule, sa vitesse et du degré de fatigue du conducteur.
+
+Solution technique :
+
 Nous avons exploré le problème de la sécurité routière et accident avec un questionnaire descriptif aux usagers de la route, le lien du formulaire est le suivant : 
 
 https://docs.google.com/forms/d/e/1FAIpQLSfq_Wrobv6VXVaXn0eOo6nLWVVZ279OHCWfPg3CBnX3iYEJzg/viewform?vc=0&c=0&w=1
