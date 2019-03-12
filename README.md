@@ -18,6 +18,10 @@ Les trois axes Problème/Public/Valeur sont les suivants :
 
 **Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques. 
 
+Nous avons exploré le problème de la sécurité routière et accident avec un questionnaire descriptif aux usagers de la route, le lien du formulaire est le suivant : 
+
+https://docs.google.com/forms/d/e/1FAIpQLSfq_Wrobv6VXVaXn0eOo6nLWVVZ279OHCWfPg3CBnX3iYEJzg/viewform?vc=0&c=0&w=1
+
 Nous définissons les entrées / sorties de notre système comme suit :
 
 ** Entrée : Mouvement des yeux
@@ -29,7 +33,6 @@ La première étape consiste à se connceter en SSH et VNC sur le Raspberry-Pi. 
 Une fois connecté sur VNC, nous avons suivi les étapes du lien ci-dessous pour installer l'assistante Google sur la Raspberry Pi : https://developers.google.com/assistant/sdk/guides/library/python/embed/setup. 
 
 Nous avons également installé OpenCV sur la raspberry en suivant les étapes du lien suivant : https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.deciphertechnic.com%2Finstall-opencv-python-on-raspberry-pi%2F%3Ffbclid%3DIwAR1CpzMVfxFXZObqhYzde5jQN5CINdQEMsLCjzKxA1sw0A36cDftsUu2MA0&h=AT3yyFiD_V991j70nm2bqHsZgHdpt309LN6ucBCxh-Zdhy9Ig0r5Gu0y57kDzyYpvglPr_TbSNAaEzi1ZS7wO1o4qatrRIkc2ale2bIX4dmI_h-oSZnksCc3z_5OGB7jIVDJcQ
-
 
 
  
