@@ -25,11 +25,17 @@ Les principales causes de la fatique se présentent comme suit :
 Les signes précurseurs de fatigue peuvent être repérées à temps par le conducteur via les signes précurseurs suivants : 
 
 ** Difficulté à maintenir la tête droite  
-** Bâillements à répétition  
-** Lourdeur des paupières et picotement des yeux   
-** Difficultés à maintenir une vitesse constante  
-** Troubles de la concentration  
+
+** Bâillements à répétition 
+
+** Lourdeur des paupières et picotement des yeux
+  
+** Difficultés à maintenir une vitesse constante 
+ 
+** Troubles de la concentration 
+
 ** Pensées décousues  
+
 ** Augmentation des gestes « autocentrés3 »
 
 Dans le but de garantir la sécurité routière pour les usagers de la route comprennent les automobilistes, les conducteurs des transports publics routiers (principalement les autobus et autocars), nous avons développé ce système de détection de fatigue en se basant sur la lourdeur des paupières et picotement des yeux. 
