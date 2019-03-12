@@ -6,10 +6,14 @@ Au volant, la fatigue se traduit par une attention moins forte, un temps de réa
 
 La fatique est souvent minimisée par les conducteur, pourtant les conséquences sont comparables à celles de la conduite sous influence de l’alcool :  
 
-** Difficulté à maintenir sa trajectoire  
-** Temps de réaction plus long  
-** Micro-sommeils  
+** Difficulté à maintenir sa trajectoire 
+ 
+** Temps de réaction plus long 
+ 
+** Micro-sommeils 
+
 ** Baisse de l’attention
+
 ** Difficulté à maintenir une vitesse constante
 
 Les principales causes de la fatique se présentent comme suit : 
@@ -24,19 +28,19 @@ Les principales causes de la fatique se présentent comme suit :
 
 Les signes précurseurs de fatigue peuvent être repérées à temps par le conducteur via les signes précurseurs suivants : 
 
-** Difficulté à maintenir la tête droite  
+**Difficulté à maintenir la tête droite  
 
-** Bâillements à répétition 
+**Bâillements à répétition 
 
-** Lourdeur des paupières et picotement des yeux
+**Lourdeur des paupières et picotement des yeux
   
-** Difficultés à maintenir une vitesse constante 
+**Difficultés à maintenir une vitesse constante 
  
-** Troubles de la concentration 
+**Troubles de la concentration 
 
-** Pensées décousues  
+**Pensées décousues  
 
-** Augmentation des gestes « autocentrés3 »
+**Augmentation des gestes « autocentrés3 »
 
 Dans le but de garantir la sécurité routière pour les usagers de la route comprennent les automobilistes, les conducteurs des transports publics routiers (principalement les autobus et autocars), nous avons développé ce système de détection de fatigue en se basant sur la lourdeur des paupières et picotement des yeux. 
 
@@ -58,9 +62,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSfq_Wrobv6VXVaXn0eOo6nLWVVZ279OHCWfPg3C
 
 Nous définissons les entrées / sorties de notre système comme suit :
 
-** Entrée : Mouvement des yeux
+**Entrée : Mouvement des yeux
 
-** Sortie : Voix personnalisées en utilisant l'assistante Google
+**Sortie : Voix personnalisées en utilisant l'assistante Google
                         
 La première étape consiste à se connceter en SSH et VNC sur le Raspberry-Pi. Pour cela, nous avons récupéré l'adresse IP de la carte en se connectant à un point d'accès Wi-Fi configuré sur la carte SDK. Le lien suivant décrit les étapes suivis pour accéder à la Raspberry-Pi par SSH et VNC : https://www.windtopik.fr/ssh-vnc-raspberrypi/ .
 
