@@ -7,10 +7,10 @@ Au volant, la fatigue se traduit par une attention moins forte, un temps de réa
 La fatique est souvent minimisée par les conducteur, pourtant les conséquences sont comparables à celles de la conduite sous influence de l’alcool :  
 
 ** Difficulté à maintenir sa trajectoire 
- 
+
 ** Temps de réaction plus long 
- 
-** Micro-sommeils 
+
+** Micro-sommeils 
 
 ** Baisse de l’attention
 
@@ -30,12 +30,12 @@ Les signes précurseurs de fatigue peuvent être repérées à temps par le cond
 
 **Difficulté à maintenir la tête droite  
 
-**Bâillements à répétition 
+**Bâillements à répétition
 
 **Lourdeur des paupières et picotement des yeux
-  
-**Difficultés à maintenir une vitesse constante 
- 
+
+**Difficultés à maintenir une vitesse constante
+
 **Troubles de la concentration 
 
 **Pensées décousues  
