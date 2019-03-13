@@ -63,11 +63,10 @@ Les véhicules récents analysent la trajectoire et l’amplitude des gestes au 
 Chez Mercedes, jusqu’à 70 paramètres sont pris en compte par le système de bord. Ils sont passés au crible par un cerveau électronique qui en déduit l’état de concentration de celui qui est derrière le volant. Si un comportement anormal est détecté, l’écran de bord recommande de s’arrêter et d’aller prendre un café. Un message doublé d’une alerte sonore.
 
 Drive fatigue monitor MR688 : Avertisseur somnolence + inattention : Utilise le PERCLOS pour déterminer l’état de fatigue du conducteur.
-Alerte également le conducteur en cas d’inattention (= lorsqu’il ne regarde pas la route). Signal sonore avec deux niveau d’alerte
-+ Message vocal.
+Alerte également le conducteur en cas d’inattention lorsqu’il ne regarde pas la route. Il emet un signal sonore avec deux niveau d’alerte en plus d'un message vocal.
 
 Roadefend Driver Anti-fatigue system : L’appareil se base sur des données biométriques pour déterminer l’état de fatigue du conducteur.
-L’appareil dispose également d’une fonction black box avertissant l’opérateur de la flotte de diverses données tel que la position du véhicule, sa vitesse et du degré de fatigue du conducteur.
+L’appareil dispose également d’une fonction black box avertissant l’opérateur de la flotte de diverses données tel que la position du véhicule, sa vitesse et le degré de fatigue du conducteur.
 
 Solution technique :
 
