@@ -70,9 +70,10 @@ L’appareil dispose également d’une fonction black box avertissant l’opér
 
 Solution technique :
 
-Nous avons exploré le problème de la sécurité routière et accident avec un questionnaire descriptif aux usagers de la route, le lien du formulaire est le suivant : 
+Nous avons exploré le problème de la sécurité routière et accident avec des questionnaires descriptifs aux usagers de la route, les liens du formulaire sont les suivants :
 
 https://docs.google.com/forms/d/e/1FAIpQLSfq_Wrobv6VXVaXn0eOo6nLWVVZ279OHCWfPg3CBnX3iYEJzg/viewform?vc=0&c=0&w=1
+https://docs.google.com/forms/d/1fDOsNJa3gzmebRY7RvpbefYV5AW5F1JSk-OrkNxbyuA/edit
 
 Nous définissons les entrées / sorties de notre système comme suit :
 
