@@ -1,0 +1,5 @@
+tutoriel :
+
+1) installation de l'assistante google sur raspberry pi : https://developers.google.com/assistant/sdk/guides/library/python/embed/setup
+2) Tout ce qui est traitement d'image sur la raspberry pi : https://www.pyimagesearch.com/
+3) La détection de la fatigue sur laquel le projet est basé :https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
