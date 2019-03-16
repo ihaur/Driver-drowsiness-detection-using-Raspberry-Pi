@@ -52,9 +52,9 @@ Les trois axes Problème/Public/Valeur sont les suivants :
 
 **Problème :    Sécurité routière et accident                         
 
-**Public   :    Les usagers de la route comprennent les automobilistes, les conducteurs des transports publics routiers (autobus et autocars)
+**Public   :    Les usagers de la route comprennent les automobilistes, les conducteurs des transports publics routiers (autobus et autocars), assureur, constructeur automobile, entreprise qui gérent le transport, Institut de recheche des technologie de transport, association de prévention des comportement au volant.
 
-**Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques. 
+**Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques, les usagers de la route resteront eveillés et vont changer le comportement pour prendre plus de pause et de sieste. 
 
 Etat de l'art et système existant : 
 
