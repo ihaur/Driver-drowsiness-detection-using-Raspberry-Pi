@@ -4,7 +4,7 @@ La fatigue est un facteur important de cause d’accidents mortels, notamment su
 
 Au volant, la fatigue se traduit par une attention moins forte, un temps de réaction plus long et une analyse des situations beaucoup plus longue. De fait, la prise de décision face à un danger est beaucoup moins évidente, multipliant les risques d’accident. Dans le pire des cas, la fatigue conduit à la somnolence avec un risque d’accident.
 
-La fatique est souvent minimisée par les conducteur, pourtant les conséquences sont comparables à celles de la conduite sous influence de l’alcool :  
+La fatigue est souvent minimisée par les conducteur, pourtant les conséquences sont comparables à celles de la conduite sous influence de l’alcool :  
 
 ** Difficulté à maintenir sa trajectoire 
 
@@ -54,7 +54,7 @@ Les trois axes Problème/Public/Valeur sont les suivants :
 
 **Public   :    Les usagers de la route comprennent les automobilistes, les conducteurs des transports publics routiers (autobus et autocars), assureur, constructeur automobile, entreprise qui gérent le transport, Institut de recheche des technologie de transport, association de prévention des comportement au volant.
 
-**Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques, les usagers de la route resteront eveillés et vont changer le comportement pour prendre plus de pause et de sieste. 
+**Valeur   :    Réduire le nombre d'accidents et prendre conscience des risques, les usagers de la route resteront eveillés et vont changer le comportement pour prendre plus de pause et de sieste.Les instituts de recherche comprendront le comportement des conducteurs au volant. 
 
 Etat de l'art et système existant : 
 
@@ -79,7 +79,7 @@ Nous définissons les entrées / sorties de notre système comme suit :
 
 **Entrée : Mouvement des yeux
 
-**Sortie : Voix personnalisées en utilisant l'assistante Google
+**Sortie : Voix personnalisées en utilisant l'assistante Google : Blagues, citations positives et devinettes, localisation de la station la plus proche, appel d'une personne. Le numéro est configuré sur une application android que nous avons developpé. 
                         
 La première étape consiste à se connecter en SSH et VNC sur le Raspberry-Pi. Pour cela, nous avons récupéré l'adresse IP de la carte en se connectant à un point d'accès Wi-Fi configuré sur la carte SDK. Le lien suivant décrit les étapes suivis pour accéder à la Raspberry-Pi par SSH et VNC : https://www.windtopik.fr/ssh-vnc-raspberrypi/.
 
@@ -87,5 +87,11 @@ Une fois connecté sur VNC, nous avons suivi les étapes du lien ci-dessous pour
 
 Nous avons également installé OpenCV sur la raspberry en suivant les étapes du lien suivant : https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.deciphertechnic.com%2Finstall-opencv-python-on-raspberry-pi%2F%3Ffbclid%3DIwAR1CpzMVfxFXZObqhYzde5jQN5CINdQEMsLCjzKxA1sw0A36cDftsUu2MA0&h=AT3yyFiD_V991j70nm2bqHsZgHdpt309LN6ucBCxh-Zdhy9Ig0r5Gu0y57kDzyYpvglPr_TbSNAaEzi1ZS7wO1o4qatrRIkc2ale2bIX4dmI_h-oSZnksCc3z_5OGB7jIVDJcQ
 
-
+Les fonctionnalités de notres systèmes developpées sont les suivantes :
+		- Détection de la fatigue par mouvement des yeux
+		- Lancement d'une blague / citattions positives / Devinettes 
+		- Définir la station la plus proche 
+		- Appel d'un ami 
+		- Intégration et validation 
+		- Intégration mécanique dans le boitier avec log
  
