@@ -88,10 +88,11 @@ Une fois connecté sur VNC, nous avons suivi les étapes du lien ci-dessous pour
 Nous avons également installé OpenCV sur la raspberry en suivant les étapes du lien suivant : https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.deciphertechnic.com%2Finstall-opencv-python-on-raspberry-pi%2F%3Ffbclid%3DIwAR1CpzMVfxFXZObqhYzde5jQN5CINdQEMsLCjzKxA1sw0A36cDftsUu2MA0&h=AT3yyFiD_V991j70nm2bqHsZgHdpt309LN6ucBCxh-Zdhy9Ig0r5Gu0y57kDzyYpvglPr_TbSNAaEzi1ZS7wO1o4qatrRIkc2ale2bIX4dmI_h-oSZnksCc3z_5OGB7jIVDJcQ
 
 Les fonctionnalités de notres systèmes developpées sont les suivantes :
-		- Détection de la fatigue par mouvement des yeux
-		- Lancement d'une blague / citattions positives / Devinettes 
-		- Définir la station la plus proche 
-		- Appel d'un ami 
-		- Intégration et validation 
-		- Intégration mécanique dans le boitier avec log
+ 
+** Détection de la fatigue par mouvement des yeux
+** Lancement d'une blague / citattions positives / Devinettes
+** Définir la station la plus proche
+** Appel d'un ami
+** Intégration et validation
+** Intégration mécanique dans le boitier avec log
  
