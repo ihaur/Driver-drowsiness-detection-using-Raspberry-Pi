@@ -87,6 +87,10 @@ Une fois connecté sur VNC, nous avons suivi les étapes du lien ci-dessous pour
 
 Nous avons également installé OpenCV sur la raspberry en suivant les étapes du lien suivant : https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.deciphertechnic.com%2Finstall-opencv-python-on-raspberry-pi%2F%3Ffbclid%3DIwAR1CpzMVfxFXZObqhYzde5jQN5CINdQEMsLCjzKxA1sw0A36cDftsUu2MA0&h=AT3yyFiD_V991j70nm2bqHsZgHdpt309LN6ucBCxh-Zdhy9Ig0r5Gu0y57kDzyYpvglPr_TbSNAaEzi1ZS7wO1o4qatrRIkc2ale2bIX4dmI_h-oSZnksCc3z_5OGB7jIVDJcQ
 
+Nous nous sommes basé sur le site suivant pour le traitement d'image sur la raspberry pi : https://www.pyimagesearch.com/
+
+La détection de la fatigue sur laquelle le projet est basé est donnée dans le site suivant : https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+
 Les fonctionnalités developpées sont les suivantes :
  
 ** Détection de la fatigue par mouvement des yeux
