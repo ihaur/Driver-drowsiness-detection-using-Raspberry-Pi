@@ -90,9 +90,14 @@ Nous avons également installé OpenCV sur la raspberry en suivant les étapes d
 Les fonctionnalités de notres systèmes developpées sont les suivantes :
  
 ** Détection de la fatigue par mouvement des yeux
+
 ** Lancement d'une blague / citattions positives / Devinettes
+
 ** Définir la station la plus proche
+
 ** Appel d'un ami
+
 ** Intégration et validation
+
 ** Intégration mécanique dans le boitier avec log
  
