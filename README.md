@@ -99,5 +99,5 @@ Les fonctionnalités developpées sont les suivantes :
 
 ** Intégration et validation
 
-** Intégration mécanique dans le boitier avec log
+** Intégration mécanique dans le boitier avec logo
  
